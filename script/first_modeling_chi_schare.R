@@ -41,9 +41,9 @@ count <- table(extinctionrisk, plasticity)
 count
 
 chisq.test(count)
-
+jpeg('output/chi.jpg')
 barplot(count, legend.text = extinctionrisk[c(12, 13)],
         xlab = "Plasticidade", ylab = "Frequ?ncia",
         args.legend = list(x = 2.4,
                            y = 47))
-
+dev.off()
