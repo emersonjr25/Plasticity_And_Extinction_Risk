@@ -1,0 +1,679 @@
+"";"id";"paper_no";"species_complete";"simp_trait";"hedgesg"
+"1";1;1000;"Cyclura nubila";"Mass";0,027
+"2";2;1000;"Cyclura nubila";"Growth rate";-0,232
+"3";4;1000;"Cyclura nubila";"Sex ratio";-0,446
+"4";5;1000;"Cyclura nubila";"Snout-vent length";-0,41
+"5";26;1008;"Sceloporus undulatus";"Growth rate";0,202
+"6";27;1008;"Sceloporus undulatus";"Body condition ";6,367
+"7";29;1008;"Sceloporus undulatus";"Survival";2,32
+"8";35;1016;"Sceloporus undulatus";"Mass";0,094
+"9";36;1016;"Sceloporus undulatus";"Yolk mass";-0,123
+"10";50;1023;"Tropidonophis mairii";"Mass";0,053
+"11";54;1023;"Tropidonophis mairii";"Abnormalities";9,931
+"12";64;1025;"Lampropholis delicata";"Capture time";0,237
+"13";65;1025;"Lampropholis delicata";"Digestion time";0,16
+"14";66;1025;"Lampropholis delicata";"Handling time";0,034
+"15";68;1025;"Lampropholis delicata";"Mobility time";-0,093
+"16";69;1025;"Lampropholis delicata";"Number of shakes";0,228
+"17";70;1025;"Lampropholis delicata";"Percent drop prey";-0,328
+"18";71;1025;"Lampropholis delicata";"Percent fail";0,092
+"19";72;1025;"Lampropholis delicata";"Subdue time";-0,368
+"20";73;1029;"Chelydra serpentina";"Mass";0,441
+"21";87;1034;"Paroedura picta";"Skin temperature";-0,233
+"22";92;1035;"Chelydra serpentina";"Hatching success";-0,105
+"23";93;1035;"Chelydra serpentina";"Mass";-0,352
+"24";102;1041;"Chelodina expansa";"Mass";0,08
+"25";108;1041;"Chelodina expansa";"Metabolic rate";-0,713
+"26";122;1042;"Emydura macquarii";"Mass";-0,339
+"27";129;1042;"Emydura macquarii";"Swimming speed";1,017
+"28";133;1043;"Lampropholis guichenoti";"Mass";-2,348
+"29";134;1043;"Bassiana duperreyi";"Mass";-0,18
+"30";137;1043;"Lampropholis guichenoti";"Metabolic rate";-3,692
+"31";138;1043;"Bassiana duperreyi";"Metabolic rate";-5,602
+"32";149;1047;"Podarcis muralis";"Femur length";3,495
+"33";150;1047;"Podarcis muralis";"Head length";3,115
+"34";151;1047;"Podarcis muralis";"Head width";-0,47
+"35";152;1047;"Podarcis muralis";"Humerus length";1,038
+"36";153;1047;"Podarcis muralis";"Max distance between stops";24,916
+"37";154;1047;"Podarcis muralis";"Mass";0,598
+"38";155;1047;"Podarcis muralis";"Number of stops";-3,773
+"39";156;1047;"Podarcis muralis";"Sprint speed";1,357
+"40";157;1047;"Podarcis muralis";"Snout-vent length";0,331
+"41";158;1047;"Podarcis muralis";"Tail length";3,401
+"42";159;1049;"Chelydra serpentina";"Mass";0,095
+"43";160;1049;"Chelydra serpentina";"Growth rate";25,456
+"44";161;1051;"Tropidonophis mairii";"Incubation duration";6,919
+"45";162;1051;"Tropidonophis mairii";"Mass";1,054
+"46";163;1051;"Tropidonophis mairii";"Muscular strength";-1,696
+"47";164;1051;"Tropidonophis mairii";"Body condition";-2,398
+"48";165;1051;"Tropidonophis mairii";"Head length";0,719
+"49";166;1051;"Tropidonophis mairii";"Sex ratio";0,891
+"50";167;1051;"Tropidonophis mairii";"Snout-vent length";1,14
+"51";168;1051;"Tropidonophis mairii";"Tail length";1,381
+"52";169;1053;"Sceloporus occidentalis";"Forelimb length";-0,436
+"53";170;1053;"Sceloporus occidentalis";"Head height";-1,558
+"54";171;1053;"Sceloporus occidentalis";"Head length";0,384
+"55";172;1053;"Sceloporus occidentalis";"Head width";-0,371
+"56";173;1053;"Sceloporus occidentalis";"Hindlimb length";-0,204
+"57";174;1053;"Sceloporus occidentalis";"Interlimb length";-0,219
+"58";175;1053;"Sceloporus occidentalis";"Mass";0,363
+"59";176;1053;"Sceloporus occidentalis";"Sprint speed";1,163
+"60";177;1053;"Sceloporus occidentalis";"Snout-vent length";0,15
+"61";178;1053;"Sceloporus occidentalis";"Tail length";-1,071
+"62";179;1054;"Sceloporus occidentalis";"Forelimb length";-0,853
+"63";180;1054;"Sceloporus occidentalis";"Hatching success";2,021
+"64";181;1054;"Sceloporus occidentalis";"Hindlimb length";-0,572
+"65";182;1054;"Sceloporus occidentalis";"Incubation duration";184,677
+"66";183;1054;"Sceloporus occidentalis";"Interlimb length";-4,784
+"67";185;1054;"Sceloporus occidentalis";"Snout-vent length";0,6
+"68";186;1054;"Sceloporus occidentalis";"Tail length";-20,927
+"69";194;1060;"Coluber constrictor";"Running time";-10,889
+"70";197;1060;"Coluber constrictor";"Maneuverability";0,013
+"71";207;1061;"Pituophis melanoleucus";"Antipredator behaviour";-0,367
+"72";209;1061;"Pituophis melanoleucus";"Incline angle individual slid down";1,032
+"73";222;1062;"Pituophis melanoleucus";"Emergence behaviour";-0,025
+"74";224;1062;"Pituophis melanoleucus";"Incubation duration";49
+"75";241;1063;"Pituophis melanoleucus";"Tongue flicking";-0,104
+"76";280;1066;"Pituophis melanoleucus";"Hatching success";-0,354
+"77";281;1066;"Pituophis melanoleucus";"Incubation duration";5,756
+"78";282;1066;"Pituophis melanoleucus";"Sex ratio";-7,425
+"79";294;1077;"Mauremys mutica";"Mass";-0,161
+"80";295;1077;"Mauremys mutica";"Growth rate";-0,961
+"81";296;1078;"Takydromus stejnegeri";"Mass";-1,744
+"82";303;1082;"Bassiana duperreyi";"Cognition";-0,053
+"83";310;1086;"Eublepharis macularius";"Brain region volume";-0,239
+"84";312;1086;"Eublepharis macularius";"Brain region metabolic capacity";-0,191
+"85";313;1090;"Eublepharis macularius";"Brain region volume";-0,003
+"86";314;1090;"Eublepharis macularius";"Brain region metabolic activity";-0,325
+"87";315;1091;"Eublepharis macularius";"Brain region volume";1,174
+"88";316;1091;"Eublepharis macularius";"Androgens";-0,86
+"89";317;1091;"Eublepharis macularius";"Estrogen";1,126
+"90";318;1107;"Gopherus polyphemus";"Carapace length";-0,001
+"91";322;1107;"Gopherus polyphemus";"Crawling time";0,113
+"92";324;1113;"Eublepharis macularius";"Brain region dihydroxyphenylacetic acid";0,133
+"93";325;1113;"Eublepharis macularius";"Brain region dopamine";0,293
+"94";326;1113;"Eublepharis macularius";"Brain region tyrosine hydroxylase";-0,334
+"95";328;1115;"Chamaeleo chamaeleon";"Hatching success";2,992
+"96";329;1115;"Chamaeleo chamaeleon";"Incubation duration";13,694
+"97";330;1115;"Chamaeleo chamaeleon";"Snout-vent length";2,012
+"98";331;1115;"Chamaeleo chamaeleon";"Mass";2,231
+"99";332;1119;"Gekko japonicus";"Mass";0,166
+"100";334;1119;"Gekko japonicus";"Incubation duration";54,945
+"101";336;1120;"Pelodiscus sinensis";"Carapace width";-0,87
+"102";339;1120;"Pelodiscus sinensis";"Mass";-0,752
+"103";345;1126;"Saproscincus mustelinus";"Handling time";1,987
+"104";346;1126;"Anepischetosia maccoyi";"Handling time";0,992
+"105";347;1126;"Lampropholis delicata";"Handling time";-3,48
+"106";351;1126;"Lampropholis delicata";"Mass";0,067
+"107";352;1126;"Saproscincus mustelinus";"Mass";0,03
+"108";353;1126;"Anepischetosia maccoyi";"Mass";0,222
+"109";354;1126;"Lampropholis delicata";"Tongue flicking";-0,518
+"110";355;1126;"Saproscincus mustelinus";"Tongue flicking";-0,516
+"111";356;1126;"Anepischetosia maccoyi";"Tongue flicking";1,078
+"112";357;1126;"Lampropholis delicata";"Proportion captured by active snakes";0,277
+"113";358;1126;"Saproscincus mustelinus";"Proportion captured by active snakes";-3,258
+"114";359;1126;"Anepischetosia maccoyi";"Proportion captured by active snakes";-1,933
+"115";360;1126;"Lampropholis delicata";"Proportion captured by snake on first attempt";1
+"116";361;1126;"Saproscincus mustelinus";"Proportion captured by snake on first attempt";0,702
+"117";362;1126;"Anepischetosia maccoyi";"Proportion captured by snake on first attempt";0,454
+"118";363;1126;"Lampropholis delicata";"Proportion struck at by snake and missed";-0,842
+"119";364;1126;"Saproscincus mustelinus";"Proportion struck at by snake and missed";-4,445
+"120";365;1126;"Anepischetosia maccoyi";"Proportion struck at by snake and missed";0,031
+"121";366;1126;"Lampropholis delicata";"Proportion that escaped via autotomy";0,263
+"122";367;1126;"Saproscincus mustelinus";"Proportion that escaped via autotomy";-4,143
+"123";368;1126;"Anepischetosia maccoyi";"Proportion that escaped via autotomy";1
+"124";369;1126;"Lampropholis delicata";"Fled snake";-0,674
+"125";370;1126;"Saproscincus mustelinus";"Fled snake";1,335
+"126";371;1126;"Anepischetosia maccoyi";"Fled snake";0,277
+"127";372;1126;"Lampropholis delicata";"Fled snake scent";-1,25
+"128";373;1126;"Saproscincus mustelinus";"Fled snake scent";-0,7
+"129";374;1126;"Anepischetosia maccoyi";"Fled snake scent";0,908
+"130";375;1126;"Lampropholis delicata";"Stopped and reversed movement";-0,906
+"131";376;1126;"Saproscincus mustelinus";"Stopped and reversed movement";-0,584
+"132";377;1126;"Anepischetosia maccoyi";"Stopped and reversed movement";-0,107
+"133";378;1126;"Lampropholis delicata";"Sprint speed";-0,743
+"134";379;1126;"Saproscincus mustelinus";"Sprint speed";-0,238
+"135";380;1126;"Anepischetosia maccoyi";"Sprint speed";0,727
+"136";387;1126;"Lampropholis delicata";"Snout-vent length";-0,263
+"137";388;1126;"Saproscincus mustelinus";"Snout-vent length";-0,426
+"138";389;1126;"Anepischetosia maccoyi";"Snout-vent length";0,399
+"139";390;1126;"Lampropholis delicata";"Tail length";-0,548
+"140";391;1126;"Saproscincus mustelinus";"Tail length";-0,16
+"141";392;1126;"Anepischetosia maccoyi";"Tail length";1,139
+"142";393;1126;"Lampropholis delicata";"Time until capture by snake";-0,736
+"143";394;1126;"Saproscincus mustelinus";"Time until capture by snake";-1,019
+"144";395;1126;"Anepischetosia maccoyi";"Time until capture by snake";0,612
+"145";396;1126;"Lampropholis delicata";"Time until snake noticed prey";1,209
+"146";397;1126;"Saproscincus mustelinus";"Time until snake noticed prey";1,995
+"147";398;1126;"Anepischetosia maccoyi";"Time until snake noticed prey";3,699
+"148";399;1127;"Takydromus septentrionalis";"Dry mass";-2,377
+"149";400;1127;"Takydromus septentrionalis";"Forelimb length";-3,508
+"150";402;1127;"Takydromus septentrionalis";"Head length";2,207
+"151";403;1127;"Takydromus septentrionalis";"Head width";15,652
+"152";404;1127;"Takydromus septentrionalis";"Hindlimb length";-4,664
+"153";406;1127;"Takydromus septentrionalis";"Maximum distance";7,35
+"154";408;1127;"Takydromus septentrionalis";"Sprint speed";8,972
+"155";409;1127;"Takydromus septentrionalis";"Snout-vent length";15,53
+"156";410;1127;"Takydromus septentrionalis";"Tail length";15
+"157";411;1127;"Takydromus septentrionalis";"Ventral scale count";0,9
+"158";412;1127;"Takydromus septentrionalis";"Mass";8,863
+"159";413;1128;"Takydromus septentrionalis";"Dry mass";-1,961
+"160";414;1128;"Takydromus septentrionalis";"Head length";-0,665
+"161";415;1128;"Takydromus septentrionalis";"Head width";0
+"162";416;1128;"Takydromus septentrionalis";"Maximum distance";2,16
+"163";417;1128;"Takydromus septentrionalis";"Sprint speed";1,048
+"164";418;1128;"Takydromus septentrionalis";"Snout-vent length";-0,672
+"165";419;1128;"Takydromus septentrionalis";"Tail length";-0,953
+"166";420;1128;"Takydromus septentrionalis";"Wet mass";-0,647
+"167";422;1129;"Plestiodon elegans";"Dry mass";-0,056
+"168";437;1132;"Takydromus septentrionalis";"Sprint speed";0,638
+"169";438;1132;"Takydromus septentrionalis";"Hatching success";0,394
+"170";439;1132;"Takydromus septentrionalis";"Incubation duration";11,608
+"171";440;1132;"Takydromus septentrionalis";"Mass";-0,486
+"172";441;1132;"Takydromus septentrionalis";"Snout-vent length";-0,483
+"173";442;1132;"Takydromus septentrionalis";"Tail length";-1,103
+"174";443;1133;"Takydromus septentrionalis";"Snout-vent length";0,023
+"175";444;1133;"Takydromus septentrionalis";"Mass";-0,45
+"176";451;1135;"Sceloporus undulatus";"Incubation duration";5,214
+"177";452;1135;"Sceloporus undulatus";"Snout-vent length";-0,215
+"178";458;1142;"Chelydra serpentina";"Yolk estradiol";-1,007
+"179";459;1142;"Chelydra serpentina";"Yolk testosterone";-1,139
+"180";460;1143;"Bassiana duperreyi";"Burst speed";-0,55
+"181";462;1143;"Bassiana duperreyi";"Mass";0,101
+"182";463;1143;"Bassiana duperreyi";"Sprint speed";-0,588
+"183";464;1143;"Bassiana duperreyi";"Snout-vent length";0,052
+"184";465;1143;"Bassiana duperreyi";"Tail length";0,304
+"185";466;1144;"Bassiana duperreyi";"Mass";-1
+"186";467;1144;"Bassiana duperreyi";"Growth rate";-0,474
+"187";468;1144;"Bassiana duperreyi";"Sprint speed";-0,636
+"188";469;1144;"Bassiana duperreyi";"Snout-vent length";-0,034
+"189";470;1144;"Bassiana duperreyi";"Tail length";-2,105
+"190";471;1145;"Trachemys scripta";"Chin stripe pigmentation";0,299
+"191";472;1145;"Trachemys scripta";"Concentricity";-1,146
+"192";473;1145;"Trachemys scripta";"Legstripe length";-1,372
+"193";474;1145;"Trachemys scripta";"Plastral spots";-6,721
+"194";480;1154;"Bassiana duperreyi";"Antipredator behaviour";3,853
+"195";481;1154;"Bassiana duperreyi";"Burst speed";-1,263
+"196";482;1154;"Bassiana duperreyi";"Hatching success";-10,659
+"197";483;1154;"Bassiana duperreyi";"Mass";1
+"198";484;1154;"Bassiana duperreyi";"Incubation duration";42,14
+"199";485;1154;"Bassiana duperreyi";"Sprint speed";-0,179
+"200";486;1154;"Bassiana duperreyi";"Snout-vent length";0,193
+"201";487;1154;"Bassiana duperreyi";"Tail length";-5,198
+"202";500;1160;"Graptemys ouachitensis";"Righting time";12,98
+"203";501;1160;"Trachemys scripta";"Righting time";0,881
+"204";525;1186;"Anolis carolinensis";"Mass";0,207
+"205";526;1186;"Anolis carolinensis";"Snout-vent length";0,183
+"206";527;1187;"Anolis carolinensis";"Epithelial cell size";1,276
+"207";528;1187;"Anolis carolinensis";"Erthrocyte size";4,366
+"208";530;1188;"Anolis carolinensis";"Mass";0,373
+"209";531;1188;"Anolis carolinensis";"Preferred temperature";-0,051
+"210";532;1190;"Apalone spinifera";"Gonad length";-0,307
+"211";533;1190;"Apalone spinifera";"Indifferent gonad length";-0,343
+"212";534;1191;"Mauremys mutica";"Abnormalities";1,062
+"213";535;1191;"Mauremys mutica";"Snout-vent length";1,696
+"214";536;1191;"Mauremys mutica";"Carapace length";4,669
+"215";537;1191;"Mauremys mutica";"Carapace width";3,615
+"216";538;1191;"Mauremys mutica";"Mass";-0,013
+"217";539;1191;"Mauremys mutica";"Hatching success";4,366
+"218";540;1191;"Mauremys mutica";"Incubation duration";93,293
+"219";541;1191;"Mauremys mutica";"Plastron length";2,402
+"220";542;1191;"Mauremys mutica";"Plastron width";2,141
+"221";543;1191;"Mauremys mutica";"Proportion of cracked eggs";-1,63
+"222";544;1191;"Mauremys mutica";"Tail length";5,617
+"223";545;1192;"Eublepharis macularius";"Estradiol";17,324
+"224";546;1192;"Eublepharis macularius";"Androgens";-1,022
+"225";547;1193;"Oligosoma suteri";"Hatching success";-2,405
+"226";549;1194;"Oligosoma suteri";"Body condition";-1,125
+"227";550;1194;"Oligosoma suteri";"Mass";-0,893
+"228";551;1194;"Oligosoma suteri";"Survival";-1,954
+"229";552;1194;"Oligosoma suteri";"Snout-vent length";-0,623
+"230";553;1194;"Oligosoma suteri";"Total length";-0,719
+"231";554;1194;"Oligosoma suteri";"Tail length";-0,785
+"232";555;1196;"Oligosoma suteri";"Change direction";5,458
+"233";556;1196;"Oligosoma suteri";"Hide";4,716
+"234";557;1196;"Oligosoma suteri";"Reluctance";3,075
+"235";558;1196;"Oligosoma suteri";"Sprint speed";-3,23
+"236";559;1196;"Oligosoma suteri";"Stop-start movement";2,089
+"237";578;1214;"Psammodromus algirus";"Incubation duration";5,264
+"238";582;1224;"Apalone mutica";"Carapace length";-2,04
+"239";583;1224;"Apalone mutica";"Carapace width";-1,216
+"240";584;1224;"Apalone mutica";"Hatching success";-1,376
+"241";585;1224;"Apalone mutica";"Mass";-0,107
+"242";587;1224;"Apalone mutica";"Incubation duration";13,511
+"243";588;1224;"Apalone mutica";"Plastron length";-1,126
+"244";589;1224;"Apalone mutica";"Sprint speed";-2,712
+"245";591;1224;"Apalone mutica";"Swimming speed";-1,993
+"246";600;1228;"Chrysemys picta";"Mass";-0,301
+"247";601;1229;"Podarcis muralis";"Ash mass";-0,987
+"248";602;1229;"Podarcis muralis";"Calcium";0,869
+"249";603;1229;"Podarcis muralis";"Dry mass";0,596
+"250";604;1229;"Podarcis muralis";"Energy";-1,499
+"251";605;1229;"Podarcis muralis";"Lipid-free organic mass";0,249
+"252";606;1229;"Podarcis muralis";"Magnesium";1,437
+"253";607;1229;"Podarcis muralis";"Lipids";-0,542
+"254";608;1229;"Podarcis muralis";"Organic mass";-0,639
+"255";609;1229;"Podarcis muralis";"Water content";9,683
+"256";610;1229;"Podarcis muralis";"Mass";6,443
+"257";611;1229;"Podarcis muralis";"Fat body dry mass";-1,528
+"258";612;1229;"Podarcis muralis";"Hatching success";4,255
+"259";613;1229;"Podarcis muralis";"Incubation duration";92,074
+"260";614;1229;"Podarcis muralis";"Sex ratio";0,268
+"261";615;1229;"Podarcis muralis";"Snout-vent length";1,667
+"262";616;1229;"Podarcis muralis";"Tail length";5,364
+"263";617;1229;"Podarcis muralis";"Yolk dry mass";-1,01
+"264";620;1230;"Pelodiscus sinensis";"Mass";-0,066
+"265";622;1231;"Naja atra";"Abnormalities";3,19
+"266";623;1231;"Naja atra";"Mass";0,022
+"267";624;1231;"Naja atra";"Dry mass";-0,143
+"268";625;1231;"Naja atra";"Fat body dry mass";-0,333
+"269";626;1231;"Naja atra";"Hatching success";-2,952
+"270";627;1231;"Naja atra";"Incubation duration";29,362
+"271";628;1231;"Naja atra";"Yolk dry mass";-3,457
+"272";629;1231;"Naja atra";"Sex ratio";0,923
+"273";630;1231;"Naja atra";"Snout-vent length";-0,632
+"274";631;1231;"Naja atra";"Tail length";0,368
+"275";632;1232;"Elaphe carinata";"Abnormalities";1,809
+"276";633;1232;"Elaphe carinata";"Mass";0,068
+"277";634;1232;"Elaphe carinata";"Dry mass";0,844
+"278";635;1232;"Elaphe carinata";"Fat body mass";5,657
+"279";636;1232;"Elaphe carinata";"Hatching success";1,497
+"280";637;1232;"Elaphe carinata";"Incubation duration";123,553
+"281";638;1232;"Elaphe carinata";"Wet mass";1,4
+"282";639;1232;"Elaphe carinata";"Yolk mass";-1,351
+"283";640;1232;"Elaphe carinata";"Sex ratio";1,741
+"284";641;1232;"Elaphe carinata";"Snout-vent length";2,379
+"285";642;1232;"Elaphe carinata";"Tail length";-4,65
+"286";644;1235;"Calotes versicolor";"Mass";-1,608
+"287";645;1235;"Calotes versicolor";"Dry mass";1,464
+"288";646;1235;"Calotes versicolor";"Eye length";1,414
+"289";647;1235;"Calotes versicolor";"Forelimb length";7,071
+"290";649;1235;"Calotes versicolor";"Head length";3,13
+"291";650;1235;"Calotes versicolor";"Head width";2,828
+"292";651;1235;"Calotes versicolor";"Hindlimb length";3,96
+"293";655;1235;"Calotes versicolor";"Snout-vent length";1,413
+"294";656;1235;"Calotes versicolor";"Tail length";1,431
+"295";657;1235;"Calotes versicolor";"Tympanum length";1,414
+"296";659;1236;"Bungarus multicinctus";"Dry mass";-0,115
+"297";661;1236;"Bungarus multicinctus";"Tail length";1,244
+"298";666;1236;"Bungarus multicinctus";"Mass";0,043
+"299";673;1237;"Plestiodon chinensis";"Dry mass";0,201
+"300";674;1237;"Plestiodon chinensis";"Mass";0,486
+"301";675;1237;"Plestiodon chinensis";"Head length";0,127
+"302";676;1237;"Plestiodon chinensis";"Incubation duration";31,593
+"303";677;1237;"Plestiodon chinensis";"Yolk dry mass";-1,961
+"304";678;1237;"Plestiodon chinensis";"Snout-vent length";0,926
+"305";679;1237;"Plestiodon chinensis";"Tail length";0,805
+"306";680;1239;"Alligator mississippiensis";"Mass";-0,089
+"307";683;1239;"Alligator mississippiensis";"Survival";-5,769
+"308";684;1239;"Alligator mississippiensis";"Total length";-0,047
+"309";685;1243;"Pseudemys nelsoni";"Critical oxygen tension";-1,063
+"310";686;1243;"Pseudemys nelsoni";"Mass";-0,995
+"311";687;1243;"Pseudemys nelsoni";"Metabolic rate";-1,026
+"312";688;1247;"Heteronotia binoei";"Burst speed";-1,902
+"313";689;1247;"Heteronotia binoei";"Growth rate";-0,618
+"314";690;1247;"Heteronotia binoei";"Incubation duration";21,364
+"315";691;1247;"Heteronotia binoei";"Scale count";0,265
+"316";692;1247;"Heteronotia binoei";"Mass";-0,285
+"317";693;1247;"Heteronotia binoei";"Hatching success";-0,54
+"318";694;1247;"Heteronotia binoei";"Snout-vent length";-1,151
+"319";695;1247;"Heteronotia binoei";"Tail length";-2,608
+"320";720;1262;"Trachemys scripta";"Incubation duration";16,846
+"321";721;1262;"Chrysemys picta";"Incubation duration";20,002
+"322";722;1262;"Trachemys scripta";"Mass";3,592
+"323";723;1262;"Chrysemys picta";"Mass";-1,842
+"324";724;1262;"Trachemys scripta";"Plastron length";-1,831
+"325";725;1262;"Chrysemys picta";"Plastron length";-2,558
+"326";726;1262;"Trachemys scripta";"Hatching success";-2,134
+"327";727;1262;"Chrysemys picta";"Hatching success";-1,473
+"328";736;1266;"Scincella modesta";"Mass";-0,617
+"329";761;1268;"Centrochelys sulcata";"Mass";0,025
+"330";762;1268;"Centrochelys sulcata";"Metabolic rate";-0,118
+"331";766;1269;"Macrochelys temminckii";"Metabolic rate";-0,81
+"332";767;1269;"Macrochelys temminckii";"Growth rate";0,033
+"333";770;1270;"Takydromus septentrionalis";"Body length";8
+"334";771;1270;"Takydromus septentrionalis";"Dry mass";2,207
+"335";772;1270;"Takydromus septentrionalis";"Hatching success";27,359
+"336";773;1270;"Takydromus septentrionalis";"Incubation duration";81,262
+"337";775;1270;"Takydromus septentrionalis";"Sex ratio";-4,299
+"338";776;1270;"Takydromus septentrionalis";"Tail length";1,628
+"339";777;1270;"Takydromus septentrionalis";"Mass";1,921
+"340";778;1272;"Ptyas dhumnades";"Dry mass";0,447
+"341";779;1272;"Ptyas dhumnades";"Mass";-0,044
+"342";780;1272;"Ptyas dhumnades";"Fat body dry mass";-7,603
+"343";783;1272;"Ptyas dhumnades";"Yolk dry mass";-6,6
+"344";785;1272;"Ptyas dhumnades";"Snout-vent length";2,826
+"345";786;1272;"Ptyas dhumnades";"Tail length";5,046
+"346";788;1273;"Deinagkistrodon acutus";"Ash mass";-0,06
+"347";789;1273;"Deinagkistrodon acutus";"Dry mass";-0,084
+"348";807;1282;"Natrix natrix";"Swimming speed";0,915
+"349";808;1282;"Natrix natrix";"Defensive behaviour";-0,025
+"350";809;1282;"Natrix natrix";"Incubation duration";14,522
+"351";811;1282;"Natrix natrix";"Terrestrial speed";5,553
+"352";815;1283;"Natrix natrix";"Mass";-0,624
+"353";825;1284;"Natrix natrix";"Nuchal colour";0,156
+"354";832;1285;"Scincella modesta";"Mass";-0,877
+"355";845;1286;"Xenochrophis piscator";"Dry mass";0,384
+"356";846;1286;"Xenochrophis piscator";"Fat body dry mass";2,342
+"357";848;1286;"Xenochrophis piscator";"Ash mass";1,559
+"358";849;1286;"Xenochrophis piscator";"Energy";1,382
+"359";850;1286;"Xenochrophis piscator";"Lipids";1,253
+"360";853;1286;"Xenochrophis piscator";"Snout-vent length";3,202
+"361";854;1286;"Xenochrophis piscator";"Tail length";2,036
+"362";855;1286;"Xenochrophis piscator";"Mass";5,425
+"363";856;1286;"Xenochrophis piscator";"Yolk dry mass";-1,498
+"364";857;1287;"Scincella modesta";"Hatching success";3,568
+"365";858;1287;"Scincella modesta";"Incubation duration";10,276
+"366";859;1287;"Scincella modesta";"Mass";-0,796
+"367";860;1287;"Scincella modesta";"Maximum distance";4,031
+"368";861;1287;"Scincella modesta";"Sprint speed";2,656
+"369";862;1287;"Scincella modesta";"Snout-vent length";0,208
+"370";863;1287;"Scincella modesta";"Tail length";2,652
+"371";864;1298;"Chelydra serpentina";"Mass";-0,049
+"372";884;1307;"Lacerta schreiberi";"Body condition";8,854
+"373";887;1307;"Lacerta schreiberi";"Mass";0,721
+"374";889;1307;"Lacerta schreiberi";"Snout-vent length";0,676
+"375";890;1308;"Psammodromus algirus";"Body condition";-2,256
+"376";891;1308;"Iberolacerta cyreni";"Body condition";-0,157
+"377";900;1316;"Apalone mutica";"Carapace length";2,668
+"378";901;1316;"Apalone mutica";"Carapace width";1,316
+"379";902;1316;"Apalone mutica";"Righting time";0,313
+"380";903;1316;"Apalone mutica";"Swimming time";-0,142
+"381";904;1316;"Apalone mutica";"Mass";0,087
+"382";905;1316;"Apalone mutica";"Hatching success";0,034
+"383";906;1316;"Apalone mutica";"Incubation duration";2,583
+"384";907;1316;"Apalone mutica";"Plastron length";2,245
+"385";909;1317;"Alligator mississippiensis";"Tail length";-0,675
+"386";910;1317;"Alligator mississippiensis";"Nape-rump length";-1,232
+"387";922;1322;"Sphenodon punctatus";"Jaw length";-0,17
+"388";923;1322;"Sphenodon punctatus";"Jaw width";-0,074
+"389";924;1322;"Sphenodon punctatus";"Mass";-0,217
+"390";927;1322;"Sphenodon punctatus";"Snout-vent length";-0,097
+"391";928;1322;"Sphenodon punctatus";"Total length";-0,163
+"392";929;1324;"Sphenodon punctatus";"Sprint speed";-0,183
+"393";930;1325;"Chrysemys picta";"Hatching success";1,4
+"394";931;1325;"Chrysemys picta";"Incubation duration";2,722
+"395";932;1325;"Chrysemys picta";"Sex ratio";0,185
+"396";933;1327;"Chelydra serpentina";"Growth rate";2,35
+"397";934;1327;"Chelydra serpentina";"Preferred temperature";2,796
+"398";935;1327;"Chelydra serpentina";"Mass";-0,03
+"399";937;1328;"Chelydra serpentina";"T4";0,33
+"400";938;1328;"Chelydra serpentina";"Mass";0,363
+"401";939;1328;"Chelydra serpentina";"Metabolic rate";1,309
+"402";944;1331;"Sceloporus undulatus";"Growth efficiency";0,225
+"403";945;1331;"Sceloporus undulatus";"Incubation duration";2,736
+"404";952;1338;"Chelydra serpentina";"Fat";0,12
+"405";953;1338;"Chelydra serpentina";"Water content";0,767
+"406";954;1338;"Chelydra serpentina";"Fat-free mass";1,421
+"407";955;1338;"Chelydra serpentina";"Fat-free yolk mass";-1,496
+"408";956;1338;"Chelydra serpentina";"Yolk fat";-0,334
+"409";960;1339;"Podocnemis lewyana";"Carapace length";-0,02
+"410";972;1343;"Takydromus wolteri";"Mass";3,911
+"411";977;1343;"Takydromus wolteri";"Snout-vent length";1,969
+"412";978;1343;"Takydromus wolteri";"Tail length";10,643
+"413";979;1343;"Takydromus wolteri";"Head length";5,657
+"414";980;1343;"Takydromus wolteri";"Head width";5
+"415";981;1343;"Takydromus wolteri";"Ventral scale count";-0,261
+"416";982;1343;"Takydromus wolteri";"Forelimb length";0
+"417";983;1343;"Takydromus wolteri";"Hindlimb length";0,632
+"418";984;1343;"Takydromus wolteri";"Tympanum length";-0,908
+"419";985;1343;"Takydromus wolteri";"Eye length";0
+"420";986;1344;"Caiman latirostris";"Mass";-17,462
+"421";987;1344;"Caiman latirostris";"Growth rate";0,447
+"422";989;1344;"Caiman latirostris";"Snout-vent length";-0,166
+"423";990;1346;"Sceloporus undulatus";"Body shape";1,414
+"424";991;1346;"Sceloporus undulatus";"Hindlimb length";-1,398
+"425";993;1346;"Sceloporus undulatus";"Mass";0,246
+"426";994;1346;"Sceloporus undulatus";"Growth rate";-0,099
+"427";996;1346;"Sceloporus undulatus";"Sprint speed";-0,2
+"428";998;1346;"Sceloporus undulatus";"Snout-vent length";-0,179
+"429";999;1346;"Sceloporus undulatus";"Tail length";-2,144
+"430";1001;1348;"Pantherophis obsoletus";"Hatching success";-1,518
+"431";1002;1348;"Pantherophis obsoletus";"Incubation duration";6,199
+"432";1003;1348;"Pantherophis obsoletus";"Mass";0,569
+"433";1004;1348;"Pantherophis obsoletus";"Muscular strength";1,864
+"434";1005;1348;"Pantherophis obsoletus";"Righting time";1,16
+"435";1006;1348;"Pantherophis obsoletus";"Snout-vent length";-2,431
+"436";1007;1348;"Pantherophis obsoletus";"Swimming speed";-2,772
+"437";1008;1348;"Pantherophis obsoletus";"Tail length";-0,26
+"438";1012;1352;"Varanus albigularis";"Head length";2,824
+"439";1013;1352;"Varanus albigularis";"Incubation duration";1,792
+"440";1014;1352;"Varanus albigularis";"Mass";2,644
+"441";1015;1352;"Varanus albigularis";"Snout-vent length";1,435
+"442";1016;1360;"Caiman latirostris";"Growth";0,526
+"443";1020;1364;"Eublepharis macularius";"Tongue flicking";0,114
+"444";1021;1364;"Eublepharis macularius";"Association time";-0,195
+"445";1022;1364;"Eublepharis macularius";"Tail vibration";1,143
+"446";1023;1364;"Eublepharis macularius";"Time associating with females";-0,185
+"447";1024;1365;"Phrynocephalus frontalis";"Mass";0,227
+"448";1025;1365;"Phrynocephalus versicolor";"Mass";0,447
+"449";1044;1367;"Sceloporus virgatus";"Hatching success";-45,124
+"450";1045;1367;"Sceloporus virgatus";"Incubation duration";10,344
+"451";1046;1367;"Sceloporus virgatus";"Activity";-2,945
+"452";1047;1367;"Sceloporus virgatus";"Mass";-0,823
+"453";1048;1367;"Sceloporus virgatus";"Growth rate";-1,609
+"454";1049;1367;"Sceloporus virgatus";"Sprint speed";0,45
+"455";1050;1367;"Sceloporus virgatus";"Preferred temperature";13,128
+"456";1051;1367;"Sceloporus virgatus";"Abnormalities";1,518
+"457";1052;1367;"Sceloporus virgatus";"Number of stops during escape";-4,182
+"458";1053;1367;"Sceloporus virgatus";"Survival";-1,574
+"459";1054;1367;"Sceloporus virgatus";"Snout-vent length";-2,223
+"460";1055;1367;"Sceloporus virgatus";"Tail length";-4,133
+"461";1056;1367;"Sceloporus virgatus";"Thermoregulatory precision";-8,451
+"462";1057;1369;"Lampropholis guichenoti";"Sprint speed";0,185
+"463";1058;1369;"Lampropholis guichenoti";"Incubation duration";9,165
+"464";1059;1369;"Lampropholis guichenoti";"Interlimb length";-1,092
+"465";1060;1369;"Lampropholis guichenoti";"Mass";0,281
+"466";1061;1369;"Lampropholis guichenoti";"Snout-vent length";-0,039
+"467";1062;1369;"Lampropholis guichenoti";"Tail length";-1,501
+"468";1064;1370;"Lampropholis guichenoti";"Sprint speed";0,281
+"469";1070;1372;"Calotes versicolor";"Mass";-0,094
+"470";1078;1376;"Bassiana duperreyi";"Sex ratio";12,969
+"471";1081;1388;"Caretta caretta";"VCO2";0,287
+"472";1084;1388;"Caretta caretta";"Mass";0,016
+"473";1086;1396;"Eublepharis macularius";"Estradiol";0,286
+"474";1087;1396;"Eublepharis macularius";"Dihydrotestosterone";-0,585
+"475";1088;1396;"Eublepharis macularius";"Hemipenes prominent";0,08
+"476";1089;1396;"Eublepharis macularius";"Preanal pores open";0,052
+"477";1090;1396;"Eublepharis macularius";"Preanal ridge";0,2
+"478";1091;1396;"Eublepharis macularius";"Testosterone";1,399
+"479";1093;1397;"Eublepharis macularius";"Estradiol";-1,919
+"480";1100;1402;"Zootoca vivipara";"Abdomen length";0,587
+"481";1101;1402;"Zootoca vivipara";"Mass";0,303
+"482";1102;1402;"Zootoca vivipara";"Head length";0,486
+"483";1103;1402;"Zootoca vivipara";"Incubation duration";7,927
+"484";1104;1402;"Zootoca vivipara";"Number of stops";-1,03
+"485";1105;1402;"Zootoca vivipara";"Sprint speed";-0,69
+"486";1106;1402;"Zootoca vivipara";"Snout-vent length";0,682
+"487";1107;1402;"Zootoca vivipara";"Tail length";-1,893
+"488";1108;1404;"Zootoca vivipara";"Abdomen length";-1,843
+"489";1109;1404;"Zootoca vivipara";"Mass";-3,4
+"490";1110;1404;"Zootoca vivipara";"Forelimb length";4,279
+"491";1111;1404;"Zootoca vivipara";"Head length";2,842
+"492";1112;1404;"Zootoca vivipara";"Hindlimb length";1,472
+"493";1114;1404;"Zootoca vivipara";"Tail length";-1,79
+"494";1118;1411;"Eublepharis macularius";"Activity";0,951
+"495";1119;1411;"Eublepharis macularius";"Males that scent marked";0,498
+"496";1120;1411;"Eublepharis macularius";"Tail vibration";0,601
+"497";1125;1419;"Bassiana duperreyi";"Sprint speed";-0,202
+"498";1126;1419;"Nannoscincus maccoyi";"Sprint speed";0,533
+"499";1141;1420;"Nannoscincus maccoyi";"Sprint speed";0,527
+"500";1148;1430;"Bassiana duperreyi";"Mass";0,1
+"501";1149;1430;"Bassiana duperreyi";"Sprint speed";-1,82
+"502";1151;1435;"Bassiana duperreyi";"Basking time";-0,677
+"503";1154;1435;"Bassiana duperreyi";"Mass";0,117
+"504";1155;1435;"Bassiana duperreyi";"Sprint speed";-2,765
+"505";1161;1437;"Liasis fuscus";"Mass";-2,859
+"506";1162;1437;"Liasis fuscus";"Number of laps completed";-4,779
+"507";1163;1437;"Liasis fuscus";"Number of taps to elicit strike";0,41
+"508";1164;1437;"Liasis fuscus";"Number of times surfaced per lap";-0,663
+"509";1165;1437;"Liasis fuscus";"Number of tail taps per lap";0,767
+"510";1166;1437;"Liasis fuscus";"Tail length";-5,09
+"511";1167;1437;"Liasis fuscus";"Snout-vent length";-0,452
+"512";1168;1437;"Liasis fuscus";"Swimming speed";-1,718
+"513";1171;1446;"Emydura macquarii";"Incubation duration";10,647
+"514";1172;1447;"Emydura macquarii";"Plastron length";-0,106
+"515";1174;1448;"Gopherus agassizii";"Hatching success";-0,113
+"516";1179;1452;"Paroedura picta";"Energy";0,026
+"517";1181;1454;"Chelydra serpentina";"Mass";-0,179
+"518";1182;1454;"Chelydra serpentina";"Respiratory quotient";0,622
+"519";1183;1454;"Chelydra serpentina";"Metabolic rate";-0,098
+"520";1185;1458;"Chrysemys picta";"Number of relocations";0,042
+"521";1186;1458;"Chrysemys picta";"Preferred temperature";-0,01
+"522";1187;1460;"Phrynocephalus przewalskii";"Forelimb length";-2,207
+"523";1188;1460;"Phrynocephalus versicolor";"Forelimb length";-6,091
+"524";1189;1460;"Phrynocephalus versicolor";"Hatching success";5,117
+"525";1190;1460;"Phrynocephalus przewalskii";"Hatching success";2,018
+"526";1191;1460;"Phrynocephalus przewalskii";"Head length";8,856
+"527";1192;1460;"Phrynocephalus versicolor";"Head length";-0,325
+"528";1193;1460;"Phrynocephalus przewalskii";"Head width";43,841
+"529";1194;1460;"Phrynocephalus versicolor";"Head width";-0,377
+"530";1195;1460;"Phrynocephalus przewalskii";"Incubation duration";35,954
+"531";1196;1460;"Phrynocephalus versicolor";"Incubation duration";32,379
+"532";1197;1460;"Phrynocephalus przewalskii";"Hindlimb length";-0,612
+"533";1198;1460;"Phrynocephalus versicolor";"Hindlimb length";-1,647
+"534";1199;1460;"Phrynocephalus przewalskii";"Mass";2,343
+"535";1200;1460;"Phrynocephalus versicolor";"Mass";3,667
+"536";1201;1460;"Phrynocephalus przewalskii";"Max distance between stops";2,828
+"537";1202;1460;"Phrynocephalus versicolor";"Max distance between stops";0,807
+"538";1203;1460;"Phrynocephalus przewalskii";"Sex ratio";0,583
+"539";1204;1460;"Phrynocephalus versicolor";"Sex ratio";-0,031
+"540";1205;1460;"Phrynocephalus przewalskii";"Sprint speed";5,966
+"541";1206;1460;"Phrynocephalus versicolor";"Sprint speed";-3,983
+"542";1207;1460;"Phrynocephalus przewalskii";"Snout-vent length";2,562
+"543";1208;1460;"Phrynocephalus versicolor";"Snout-vent length";-0,488
+"544";1209;1460;"Phrynocephalus przewalskii";"Tail length";-3,855
+"545";1210;1460;"Phrynocephalus versicolor";"Tail length";0,151
+"546";1212;1464;"Bassiana duperreyi";"Sprint speed";-0,737
+"547";1213;1464;"Bassiana duperreyi";"Hatching success";-4,59
+"548";1216;1464;"Bassiana duperreyi";"Mass";0
+"549";1217;1464;"Bassiana duperreyi";"Snout-vent length";-2,931
+"550";1218;1464;"Bassiana duperreyi";"Tail length";-21,356
+"551";1220;1467;"Emydura macquarii";"Sex ratio";0,637
+"552";1221;1469;"Eublepharis macularius";"Corticosterone";0,575
+"553";1222;1469;"Eublepharis macularius";"Dihydrotestosterone";-4,596
+"554";1223;1469;"Eublepharis macularius";"Estradiol";1,43
+"555";1224;1469;"Eublepharis macularius";"Testosterone";-0,753
+"556";1225;1469;"Eublepharis macularius";"Mass";0,053
+"557";1242;1487;"Eublepharis macularius";"Hatching success";-1,155
+"558";1244;1488;"Emys orbicularis";"Mass";0,175
+"559";1261;1501;"Anolis sagrei";"Body condition";-0,017
+"560";1263;1501;"Anolis sagrei";"Yolk mass";0,524
+"561";1264;1501;"Anolis sagrei";"Snout-vent length";0,724
+"562";1267;1510;"Crocodylus porosus";"Snout-vent length";-0,267
+"563";1269;1510;"Crocodylus porosus";"incubation duration";32,234
+"564";1285;1525;"Trachemys scripta";"Mass";2,121
+"565";1287;1527;"Hemidactylus bowringii";"Mass";0,013
+"566";1296;1529;"Chelydra serpentina";"Hatching success";8,485
+"567";1302;1539;"Plestiodon chinensis";"Mass";0,994
+"568";1303;1539;"Plestiodon chinensis";"Dry mass";7,858
+"569";1305;1539;"Plestiodon chinensis";"Fat body dry mass";0,325
+"570";1306;1539;"Plestiodon chinensis";"Hatching success";-0,397
+"571";1307;1539;"Plestiodon chinensis";"Head length";1
+"572";1308;1539;"Plestiodon chinensis";"Head width";5
+"573";1309;1539;"Plestiodon chinensis";"Incubation duration";124,53
+"574";1312;1539;"Plestiodon chinensis";"Snout-vent length";3,051
+"575";1313;1539;"Plestiodon chinensis";"Tail length";-3,9
+"576";1314;1539;"Plestiodon chinensis";"Yolk dry mass";-5,785
+"577";1315;1540;"Chelydra serpentina";"Dry mass";1,474
+"578";1316;1540;"Chelydra serpentina";"Hatching success";2,933
+"579";1317;1540;"Chelydra serpentina";"Yolk dry mass";-1,259
+"580";1328;1570;"Mauremys reevesii";"Growth rate";-0,799
+"581";1347;1577;"Amphibolurus muricatus";"Preferred temperature";1,559
+"582";1355;1577;"Amphibolurus muricatus";"Mass";0,239
+"583";1357;1577;"Amphibolurus muricatus";"Sprint speed";-0,962
+"584";1358;1577;"Amphibolurus muricatus";"Snout-vent length";0,18
+"585";1373;1606;"Trachemys scripta";"Metabolic rate";-0,143
+"586";1375;1609;"Plestiodon chinensis";"Incubation duration";74,082
+"587";1376;1609;"Plestiodon chinensis";"Snout-vent length";1,053
+"588";1377;1609;"Plestiodon chinensis";"Tail length";0,191
+"589";1378;1609;"Plestiodon chinensis";"Mass";0,114
+"590";1383;1627;"Dipsosaurus dorsalis";"Hatching success";-2,636
+"591";1384;1627;"Dipsosaurus dorsalis";"Incubation duration";17,029
+"592";1400;1651;"Psammodromus algirus";"Mass";-0,054
+"593";1401;1651;"Psammodromus algirus";"Food intake";0,29
+"594";1402;1651;"Psammodromus algirus";"Growth rate";-0,451
+"595";1403;1651;"Psammodromus algirus";"Incubation duration";11,815
+"596";1404;1651;"Psammodromus algirus";"Survival";-1,189
+"597";1405;1651;"Psammodromus algirus";"Snout-vent length";0,405
+"598";1406;1651;"Psammodromus algirus";"Tail length";-0,411
+"599";1407;1656;"Amphibolurus muricatus";"Incubation duration";5,146
+"600";1408;1656;"Amphibolurus muricatus";"Sex ratio";0,065
+"601";1409;1656;"Amphibolurus muricatus";"Sprint speed";0,106
+"602";1410;1662;"Dinodon rufozonatum";"Abnormalities";-0,61
+"603";1411;1662;"Dinodon rufozonatum";"Dry mass";0
+"604";1412;1662;"Dinodon rufozonatum";"Energy";1,664
+"605";1413;1662;"Dinodon rufozonatum";"Hatching success";0,382
+"606";1414;1662;"Dinodon rufozonatum";"Ash mass";-2,085
+"607";1415;1662;"Dinodon rufozonatum";"Lipids";1,664
+"608";1416;1662;"Dinodon rufozonatum";"Incubation duration";139,536
+"609";1417;1662;"Dinodon rufozonatum";"Maximum distance";-1,365
+"610";1418;1662;"Dinodon rufozonatum";"Sex ratio";0,933
+"611";1419;1662;"Dinodon rufozonatum";"Snout-vent length";0,301
+"612";1420;1662;"Dinodon rufozonatum";"Tail length";-2,668
+"613";1423;1545;"Chamaeleo calyptratus";"Tongue extrusion";1,514
+"614";1424;1545;"Chamaeleo calyptratus";"Latency to strike";-0,957
+"615";1425;1545;"Chamaeleo calyptratus";"Distanced moved";-6,24
+"616";1426;1545;"Chamaeleo calyptratus";"Activity";-2,487
+"617";1430;1626;"Pelodiscus sinensis";"Sex ratio";0,912
+"618";1436;1663;"Mauremys mutica";"Incubation duration";13,627
+"619";1437;1663;"Mauremys mutica";"Hatching success";-0,409
+"620";1438;1663;"Mauremys mutica";"Mass";-1,296
+"621";1439;1663;"Mauremys mutica";"Carapace length";-0,568
+"622";1440;1663;"Mauremys mutica";"Carapace width";-0,566
+"623";1441;1663;"Mauremys mutica";"Righting number";-1,169
+"624";1442;1663;"Mauremys mutica";"Righting time";0,702
+"625";1444;1028;"Chelydra serpentina";"Heart rate";-1,058
+"626";1460;1137;"Chelydra serpentina";"Heart rate";0,331
+"627";1461;1137;"Sceloporus undulatus";"Heart rate";0,163
+"628";1462;1137;"Bassiana duperreyi";"Heart rate";-0,112
+"629";1463;1137;"Elaphe taeniura";"Heart rate";0,443
+"630";1464;1131;"Bassiana duperreyi";"Body temperature";-1,443
+"631";1465;1131;"Bassiana duperreyi";"Head temperature";-0,977
+"632";1466;1551;"Chelonia mydas";"Mass";0,074
+"633";1478;1655;"Chrysemys picta";"Sex ratio";1,721
+"634";1479;1655;"Chrysemys picta";"Abnormalities";-0,521
+"635";1480;1655;"Chelydra serpentina";"Sex ratio";1,058
+"636";1483;1638;"Plestiodon chinensis";"Incubation duration";4,619
+"637";1484;1638;"Plestiodon chinensis";"Mass";0,121
+"638";1485;1638;"Plestiodon chinensis";"Snout-vent length";0
+"639";1486;1638;"Plestiodon chinensis";"Abdomen length";-0,387
+"640";1487;1638;"Plestiodon chinensis";"Tail length";0,947
+"641";1488;1638;"Plestiodon chinensis";"Head length";0,866
+"642";1489;1638;"Plestiodon chinensis";"Head width";1,5
+"643";1490;1638;"Plestiodon chinensis";"Forelimb length";0
+"644";1491;1638;"Plestiodon chinensis";"Hindlimb length";0,866
+"645";1492;1638;"Plestiodon chinensis";"Maximum distance";0
+"646";1493;1638;"Plestiodon chinensis";"Sprint speed";0,707
+"647";1495;1632;"Chrysemys picta";"Incubation duration";10,195
+"648";1496;1632;"Chrysemys picta";"Hatching success";-1,135
+"649";1497;1632;"Chrysemys picta";"Sex ratio";0,215
+"650";1500;1666;"Oedura lesueurii";"Incubation duration";-11,315
+"651";1501;1666;"Oedura lesueurii";"Mass";-3
+"652";1502;1666;"Oedura lesueurii";"Snout-vent length";-1,379
+"653";1503;1666;"Oedura lesueurii";"Tail length";-4,237
+"654";1504;1666;"Oedura lesueurii";"Total length";-3,935
+"655";1505;1666;"Oedura lesueurii";"Survival";4,025
+"656";1506;1669;"Podocnemis lewyana";"Sex ratio";9
+"657";1507;1670;"Anolis sagrei";"Survival";-1,197
+"658";1512;1670;"Anolis sagrei";"Growth rate";-0,019
+"659";1513;1670;"Anolis sagrei";"Sprint speed";-0,929
+"660";1515;1673;"Iberolacerta cyreni";"Hatching success";-0,061
+"661";1516;1673;"Iberolacerta cyreni";"Survival";1,135
+"662";1517;1673;"Iberolacerta cyreni";"Snout-vent length";-0,092
+"663";1518;1673;"Iberolacerta cyreni";"Mass";-0,335
+"664";1519;1673;"Iberolacerta cyreni";"Body condition";-0,139
+"665";1524;1569;"Physignathus lesueurii";"Sex ratio";4,011
+"666";1527;1571;"Pelodiscus sinensis";"Mass";-0,751
+"667";1528;1571;"Pelodiscus sinensis";"Carapace width";0,571
+"668";1536;1581;"Alligator mississippiensis";"Hatching success";-18,62
+"669";1537;1581;"Alligator mississippiensis";"Sex ratio";-0,707
+"670";1538;1581;"Alligator mississippiensis";"Mass";0,301
+"671";1542;1590;"Pituophis melanoleucus";"Incubation duration";65,303
+"672";1544;1591;"Chrysemys picta";"Incubation duration";30,284
+"673";1545;1591;"Chrysemys picta";"Carapace length";0,98
+"674";1559;1573;"Ocadia sinensis";"Growth rate";-0,328
+"675";1566;1573;"Mauremys mutica";"Growth rate";0,372
+"676";1567;1575;"Elseya albagula";"Mass";0
+"677";1578;1575;"Elseya albagula";"Swimming speed";0,181
+"678";1592;1579;"Staurotypus salvinii";"Sex ratio";0,16
