@@ -23,15 +23,29 @@ hedges <- hedges %>%
   mutate(risk = as.factor(risk), 
          risk_two = as.factor(risk_two))
 
-plot(hedges$risk, hedges$hedgesg)
-plot(hedges$risk_two, hedges$hedgesg)
+jpeg('output/plot_1.jpg')
+plot(hedges$risk, hedges$hedgesg,
+     xlab = "Extinction Risk", ylab = "Plasticity")
+dev.off()
+
+jpeg('output/plot_2.jpg')
+plot(hedges$risk_two, hedges$hedgesg,
+     xlab = "Extinction Risk", ylab = "Plasticity")
+dev.off()
 
 hedges_filter <- hedges %>%
   filter(hedges$hedgesg > as.numeric(summary(hedges$hedgesg)[2]),
          hedges$hedgesg < as.numeric(summary(hedges$hedgesg)[5]))
 
-plot(hedges_filter$risk, hedges_filter$hedgesg)
-plot(hedges_filter$risk_two, hedges_filter$hedgesg)
+jpeg('output/plot_3.jpg')
+plot(hedges_filter$risk, hedges_filter$hedgesg,
+     xlab = "Extinction Risk", ylab = "Plasticity")
+dev.off()
+
+jpeg('output/plot_4.jpg')
+plot(hedges_filter$risk_two, hedges_filter$hedgesg,
+     xlab = "Extinction Risk", ylab = "Plasticity")
+dev.off()
 
 ### WITH ABS ###
 hedges_abs <- hedges %>%
@@ -41,5 +55,12 @@ hedges_filter2 <- hedges_abs %>%
   filter(hedges_abs$hedgesg > as.numeric(summary(hedges_abs$hedgesg)[2]),
          hedges_abs$hedgesg < as.numeric(summary(hedges_abs$hedgesg)[5]))
 
-plot(hedges_filter2$risk, hedges_filter2$hedgesg)
-plot(hedges_filter2$risk_two, hedges_filter2$hedgesg)
+jpeg('output/plot_5.jpg')
+plot(hedges_filter2$risk, hedges_filter2$hedgesg,
+     xlab = "Extinction Risk", ylab = "Plasticity")
+dev.off()
+
+jpeg('output/plot_6.jpg')
+plot(hedges_filter2$risk_two, hedges_filter2$hedgesg,
+     xlab = "Extinction Risk", ylab = "Plasticity")
+dev.off()
